@@ -1,3 +1,6 @@
-# Welcome to Github Pages
-
-hogehoge
+<!doctype html>
+<html>
+<body>
+  <!-- コンテンツを配置 -->
+</body>
+</html>
