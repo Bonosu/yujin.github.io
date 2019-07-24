@@ -880,7 +880,7 @@ button.btn--medium {
 
 .btn--large,
 button.btn--large {
-  height: 6.8rem !important;
+  height: 2.8rem !important;
   line-height: 6.4rem !important;
 }
 
@@ -2171,8 +2171,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 19.2rem;
-  padding-bottom: 16.8rem;
+  padding-top: 10.2rem;
   background-color: #ffffff;
 }
 
@@ -2189,6 +2188,7 @@ input::-moz-focus-inner {
 }
 
 .about-me__text {
+  margin-bottom: 10.8rem;
   -webkit-columns: 2 360px;
   -moz-columns: 2 360px;
   columns: 2 360px;
@@ -2341,7 +2341,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media screen and (max-width:1200px) {
   .s-about {
-    padding-top: 17.2rem;
+    padding-top: 10.2rem;
     padding-bottom: 15.6rem;
   }
 
@@ -2509,12 +2509,9 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  color: rgba(255, 255, 255, 0.7);
+  padding-top: 10.2rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
   position: relative;
 }
 
@@ -2563,7 +2560,6 @@ input::-moz-focus-inner {
 
 .services-list {
   max-width: 1240px;
-  margin-top: 8.8rem;
   counter-reset: ctr;
   position: relative;
 }
@@ -2571,12 +2567,11 @@ input::-moz-focus-inner {
 .services-list .item-service {
   margin-bottom: 2.4rem;
   padding: 0 30px;
-  min-height: 44.8rem;
+  min-height: 20.8rem;
 }
 
 .services-list .item-service__content {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  padding-top: 3.6rem;
 }
 
 .services-list .item-service__content::before {
@@ -2741,8 +2736,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-top: 10.2rem;
   background-color: #ffffff;
 }
 
@@ -3283,8 +3277,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 18.4rem;
-  padding-bottom: 6.4rem;
+  padding-top: 5.4rem;
   background-color: #050505;
 }
 
@@ -3309,10 +3302,9 @@ input::-moz-focus-inner {
 }
 
 .contact-infos {
-  margin-top: 12.8rem;
   font-family: "Frank Ruhl Libre", serif;
   font-weight: 400;
-  font-size: 4.2rem;
+  font-size: 2.2rem;
   line-height: 1.333;
 }
 
