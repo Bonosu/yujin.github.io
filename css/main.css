@@ -2167,7 +2167,7 @@ input::-moz-focus-inner {
 .s-abstract {
     padding-top:10.2rem;
     padding-bottom: 0;
-    background-color: #ffffff;
+    background-color: #A9A9A9;
 }
 
 
@@ -2177,6 +2177,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .s-about {
   background-color: #ffffff;
+  padding-top: 5.2rem;
 }
 
 .s-about .row {
@@ -2513,7 +2514,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 5.2rem;
+  padding-top: 2.2rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
   position: relative;
