@@ -2164,6 +2164,11 @@ input::-moz-focus-inner {
 
 }
 
+.s-abstract {
+    padding-top:10.2rem;
+    padding-bottom: 0;
+    background-color: #ffffff;
+}
 
 
 /* ===================================================================
@@ -2171,12 +2176,11 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 10.2rem;
   background-color: #ffffff;
 }
 
 .s-about .row {
-  max-width: 1140px;
+  max-width: 1200px;
 }
 
 .s-about > [class*="about-"] {
