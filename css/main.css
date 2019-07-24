@@ -1,4 +1,4 @@
-/* =================================================================== 
+=================================================================== 
  *
  *  Epitome Main Stylesheet
  *  Template Ver. 1.0.0
@@ -2279,7 +2279,7 @@ input::-moz-focus-inner {
 }
 
 .timeline__icon--work {
-  background-image: url(../images/icons/icon-briefcase.svg);
+  background-image: url(../images/icons/icon-gear.svg);
 }
 
 .timeline__icon--education {
@@ -2513,7 +2513,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 10.2rem;
+  padding-top: 5.2rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
   position: relative;
